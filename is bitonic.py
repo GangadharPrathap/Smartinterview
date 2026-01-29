@@ -8,4 +8,4 @@ def is_bionic(arr):
     return i == n-1
 n=int(input())
 arr=list(map(int,input().split()))
-print(str(is_bionic(arr)).lower())        
+print(str(is_bionic(arr)).lower())
